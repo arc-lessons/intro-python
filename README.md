@@ -12,4 +12,3 @@ The lesson is delivered in the jupyter notebooks based build system developed by
 ## Contributions to the tutorial
 
 If you would like to contribute to the lesson please fork the repository and create a pull request.
-second attempt at unix training
