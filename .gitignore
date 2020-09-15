@@ -1,5 +1,4 @@
-./*/ipynb_checkpoints/*
-./html/*
-./pdf/*
-./notebooks_rendered/*
-
+**/.ipynb_checkpoints
+**/__pycache__
+nbfancy
+html
